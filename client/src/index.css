@@ -3,13 +3,6 @@
 @tailwind utilities;
 
 
-@layer base {
-    h1, h2, h3, h4, h5, h6 {
-      font-family: 'Roboto', sans-serif;
-    }
-  
-    body {
-      font-family: 'Arial', sans-serif;
+body {
       background-color: rgb(241, 245, 241);
-    }
-  }
+}
